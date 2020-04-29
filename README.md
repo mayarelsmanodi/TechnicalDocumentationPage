@@ -1,2 +1,2 @@
 # TechnicalDocumentationPage
-HTML% &amp; CSS only
+HTML5 & CSS only
